@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestAlgorithm.cpp.dir/Algorithm_3.cpp.o CMakeFiles/TestAlgorithm.cpp.dir/MutualExclusion.cpp.o CMakeFiles/TestAlgorithm.cpp.dir/TestAlgorithm.cpp.o CMakeFiles/TestAlgorithm.cpp.dir/Worker.cpp.o  -o TestAlgorithm.cpp 

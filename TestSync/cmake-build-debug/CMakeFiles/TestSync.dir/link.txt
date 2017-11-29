@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestSync.dir/SynQApp.cpp.o  -o TestSync 

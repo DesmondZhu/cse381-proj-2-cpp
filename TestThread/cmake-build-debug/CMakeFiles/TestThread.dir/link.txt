@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestThread.dir/Driver.cpp.o CMakeFiles/TestThread.dir/Sum.cpp.o CMakeFiles/TestThread.dir/Summation.cpp.o  -o TestThread 
