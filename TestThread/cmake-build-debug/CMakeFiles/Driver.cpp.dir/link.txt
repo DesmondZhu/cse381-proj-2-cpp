@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Driver.cpp.dir/Driver.cpp.o CMakeFiles/Driver.cpp.dir/Sum.cpp.o CMakeFiles/Driver.cpp.dir/Summation.cpp.o  -o Driver.cpp 

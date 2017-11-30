@@ -1,3 +1,0 @@
-/home/desmondzhu0901/CLionProjects/TestThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/desmondzhu0901/CLionProjects/TestThread/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/desmondzhu0901/CLionProjects/TestThread/cmake-build-debug/CMakeFiles/Driver.cpp.dir
